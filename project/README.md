@@ -6,14 +6,15 @@
     language  `Java` / `Kotlin` / `Groovy`
     bootVersion  `2.0.5` / `1.5.16`
     lib  min 最小依赖 max 全部依赖
-
-    Generate a `Gradle Project` with `Groovy` and Spring Boot `2.0.5`  gradle-groovy-2-min/
-    Generate a `Gradle Project` with `Java` and Spring Boot `2.0.5`  gradle-java-2-min/
-    Generate a `Gradle Project` with `Kotlin` and Spring Boot `2.0.5`  gradle-kotlin-2-min/
-    Generate a `Maven Project` with `Java` and Spring Boot `2.0.5`  maven-java-1-max/
-    Generate a `Maven Project` with `Java` and Spring Boot `2.0.5`  maven-java-1-min/
-    Generate a `Maven Project` with `Java` and Spring Boot `2.0.5`  maven-java-2-max/
-    Generate a `Maven Project` with `Java` and Spring Boot `2.0.5`  maven-java-2-min/
+ 
+	
+    Generate a `Gradle Project` with `Groovy` and Spring Boot `2.0.5`  gradle-groovy-boot2
+    Generate a `Gradle Project` with `Java` and Spring Boot `2.0.5`  gradle-java-boot2
+    Generate a `Gradle Project` with `Kotlin` and Spring Boot `2.0.5`  gradle-kotlin-boot2
+    Generate a `Maven Project` with `Java` and Spring Boot `1.5.16`  maven-java-boot1
+    Generate a `Maven Project` with `Java` and Spring Boot `1.5.16`  maven-java-boot1-all
+    Generate a `Maven Project` with `Java` and Spring Boot `2.0.5`  maven-java-boot2
+    Generate a `Maven Project` with `Java` and Spring Boot `2.0.5`  maven-java-boot2-all
     
 
 # maven 模板生成
