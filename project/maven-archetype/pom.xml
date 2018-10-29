@@ -1,0 +1,34 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.xy2401.examples.project</groupId>
+	<artifactId>maven-archetypes</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<name>standard-edition</name>
+	<description>some Samples,some example,copy code for myself</description>
+	<url>http://maven.apache.org</url>
+
+
+	<modules>
+		<module>maven-archetype-archetype         </module>
+		<module>maven-archetype-j2ee-simple       </module>
+		<module>maven-archetype-plugin            </module>
+		<module>maven-archetype-plugin-site       </module>
+		<module>maven-archetype-portlet           </module>
+		<module>maven-archetype-quickstart        </module>
+		<module>maven-archetype-simple            </module>
+		<module>maven-archetype-site              </module>
+		<module>maven-archetype-site-simple       </module>
+		<module>maven-archetype-site-skin         </module>
+		<module>maven-archetype-webapp            </module>
+
+
+	</modules>
+
+
+
+</project>

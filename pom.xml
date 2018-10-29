@@ -1,0 +1,43 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.xy2401</groupId>
+	<artifactId>examples</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<name>standard-edition</name>
+	<description>some Samples,some example,copy code for myself</description>
+	<url>http://maven.apache.org</url>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+	</properties>
+
+
+	<modules>
+
+		<!-- Java SE 基础 -->
+		<module>standard-edition</module>
+		<!--简单使用 -->
+		<module>standard</module>
+		<!--高级使用 -->
+		<module>advanced</module>  <!-- Java SE 基础 -->
+		<!--某种话题 -->
+		<module>topic</module>  <!-- Java SE 基础 -->
+		<!--项目结构 -->
+		<module>project/maven-archetype</module>
+		<module>project/spring</module>
+
+		<!--类库使用 -->
+		<module>library</module>
+
+
+	</modules>
+
+
+
+</project>

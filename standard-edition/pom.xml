@@ -1,0 +1,30 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.xy2401.examples</groupId>
+	<artifactId>standard-edition</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<name>standard-edition</name>
+	<description>some Samples,some example,copy code for myself</description>
+	<url>http://maven.apache.org</url>
+
+
+	<modules>
+
+		<!-- Java SE 基础 -->
+		<module>javase</module>
+		<module>javase-7</module>
+		<module>javase-8</module>  <!-- Java SE 基础 -->
+		<module>javase-11</module>  <!-- Java SE 基础 -->
+
+
+
+	</modules>
+
+
+
+</project>

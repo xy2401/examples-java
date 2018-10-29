@@ -1,0 +1,31 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.xy2401.examples.project</groupId>
+	<artifactId>spring</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<name>standard-edition</name>
+	<description>some Samples,some example,copy code for myself</description>
+	<url>http://maven.apache.org</url>
+
+
+	<modules>
+
+		<module>maven-java-boot1</module>
+		<module>maven-java-boot1-all</module>
+		<module>maven-java-boot2</module>
+		<module>maven-java-boot2-all</module>
+		<module>maven-java-boot2-jdk11</module>
+		<module>maven-java-boot2-war</module>
+
+
+
+	</modules>
+
+
+
+</project>

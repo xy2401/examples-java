@@ -1,4 +1,12 @@
-# spring 模板生成
+# 项目模板
+
+[spring项目](#spring模板生成)
+
+[maven项目](#maven模板生成)
+
+
+
+# spring模板生成
 
 [Spring Initializr](https://start.spring.io/)
 
@@ -17,7 +25,7 @@
     Generate a `Maven Project` with `Java` and Spring Boot `2.0.5`  maven-java-boot2-all
     
 
-# maven 模板生成
+# maven模板生成
 
 [Maven – Introduction to Archetypes](https://maven.apache.org/guides/introduction/introduction-to-archetypes.html)
 
